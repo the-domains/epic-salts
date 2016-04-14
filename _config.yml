@@ -1,0 +1,28 @@
+name: Epic Salts
+favicon: null
+layout_spectrum: 0.7601364471483976
+typography_spectrum: 0.33460355130955577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9520533909089863
+  lightness: 0.4025636143051088
+  saturation: 0.37136471224948764
+  rhythmicContrast: 0.6080424932297319
+purpose: []
